@@ -1,11 +1,11 @@
 ! Google Filters
-google.com##div.g:has(a[href*="ukcolumn.org"])
+!google.com##div.g:has(a[href*="ukcolumn.org"])
 
 ! DuckDuckGo Filters
-duckduckgo.com##.result:has(a[href*="ukcolumn.org"])
+!duckduckgo.com##.result:has(a[href*="ukcolumn.org"])
 
 ! Bing Filters
-bing.com##li.b_algo:has(a[href*="ukcolumn.org"])
+!bing.com##li.b_algo:has(a[href*="ukcolumn.org"])
 
 ! Blanket Filter
-||ukcolumn.org^$all,redirect=about:blank
+!||ukcolumn.org^$all,redirect=about:blank
