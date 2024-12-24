@@ -6,6 +6,3 @@
 
 ! Bing Filters
 !bing.com##li.b_algo:has(a[href*="ukcolumn.org"])
-
-! Blanket Filter
-!||ukcolumn.org^$all,redirect=about:blank
