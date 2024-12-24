@@ -6,3 +6,6 @@ duckduckgo.com##.result:has(a[href*="ukcolumn.org"])
 
 ! Bing Filters
 bing.com##li.b_algo:has(a[href*="ukcolumn.org"])
+
+! Blanket Filter
+||ukcolumn.org^$all
