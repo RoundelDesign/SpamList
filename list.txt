@@ -1,4 +1,4 @@
-!google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(opacity:0.00!important;)
-!google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(display: none !important;)
-!google.com,duckduckgo.com,bing.com##div:has(a[href*="ukcolumn.org"])
-!google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(display: none !important;)
+! google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(opacity:0.00!important;)
+! google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(display: none !important;)
+! google.com,duckduckgo.com,bing.com##div:has(a[href*="ukcolumn.org"])
+! google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(display: none !important;)
