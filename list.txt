@@ -1,0 +1,1 @@
+google.com,duckduckgo.com,bing.com##a[href*="ukcolumn.org"]:upward(div):style(opacity:0.00!important;)
